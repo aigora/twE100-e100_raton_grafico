@@ -1,11 +1,12 @@
-# Título del trabajo
+# Juego laberinto
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El objetivo del juego consistirá en mediante matrices y archivos, que el jugador se mueva por la pantalla siendo representados sus movimientos con un caracter y que consiga superar ciertos juegos que se le planteen, todavía por desarrollar. 
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Helena Perez de Inestrosa Juandó @helenapinestrosa
+Fabio Sánchez García @fabiosanchezgarcia
+Asier Vicente Sánchez @asiervicentes
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
