@@ -10,3 +10,6 @@ Asier Vicente Sánchez @asiervicentes
 
 ## Objetivos del trabajo
 
+1. Desarrollar una interfaz que interactúe con el usuario demandándole ciertos datos, además de permitir que él mismo decida ciertos aspectos gráficos del juego.
+2. Generar pantallas donde se desarrollará la actividad.
+3. Dotar de movimiento un caracter que simulará el icono que manejará el jugador.
